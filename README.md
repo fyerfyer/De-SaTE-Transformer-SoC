@@ -525,4 +525,4 @@ python scripts/train.py \
     --output_dir fine_tuned_models/
 ```
 
-> TODO: 实际运行模型并没有微调，只是进行了默认的train，之后会进行微调相关测试。
+> TODO: 实际运行模型并没有测试使用这些相关功能，之后可能会测试使用相关功能并修改有问题的地方。
